@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Disable Twitch Lower Resolution when not in focus.
 // @namespace    http://troysjanda.com/
+// @updateURL    https://github.com/ryanbr/TwitchAdSolutions/raw/master/vaft/vaft.user.js
+// @downloadURL  https://github.com/ryanbr/TwitchAdSolutions/raw/master/vaft/vaft.user.js
 // @version      1.0
 // @description  Disable Twitch Lower Resolution when not in focus.
 // @author       Troy Janda
