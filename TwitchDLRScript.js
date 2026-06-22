@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Twitch Lower Resolution when not in focus.
 // @namespace    https://github.com/troysjanda
-// @version      1.2
+// @version      1.3
 // @updateURL    https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
 // @downloadURL  https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
 // @description  Disable Twitch Lower Resolution when not in focus.
@@ -13,5 +13,5 @@
 
 (function() {
     'use strict';
-    Object.defineProperty(document, "hidden", { value : false});
+    Object.defineProperty(document, "hidden", {value: false, writable: true});
 })();
