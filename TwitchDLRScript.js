@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Disable Twitch Lower Resolution when not in focus.
+// @name         Disable Twitch Lower Resolution/Blur when tab not in focus.
 // @namespace    https://github.com/troysjanda
-// @version      1.4
+// @version      1.4.1
 // @updateURL    https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
 // @downloadURL  https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
-// @description  Disable Twitch Lower Resolution when not in focus.
+// @description  Disable Twitch Lower Resolution/Blur when tab not in focus.
 // @author       Troy Janda
 // @match        https://www.twitch.tv/*
 // @match        https://player.twitch.tv/*
