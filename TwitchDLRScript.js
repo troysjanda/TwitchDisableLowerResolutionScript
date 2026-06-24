@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Twitch Lower Resolution/Blur when tab not in focus.
 // @namespace    https://github.com/troysjanda
-// @version      1.4.1
+// @version      1.4.2
 // @updateURL    https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
 // @downloadURL  https://raw.githubusercontent.com/troysjanda/TwitchDisableLowerResolutionScript/refs/heads/main/TwitchDLRScript.js
 // @description  Disable Twitch Lower Resolution/Blur when tab not in focus.
@@ -9,6 +9,7 @@
 // @match        https://www.twitch.tv/*
 // @match        https://player.twitch.tv/*
 // @grant        none
+// @run-at       document-start
 // ==/UserScript==
 (function () {
     'use strict';
